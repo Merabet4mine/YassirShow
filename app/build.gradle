@@ -47,12 +47,9 @@ dependencies {
     //----------------------------------------------------------------------
     implementation 'com.squareup.picasso:picasso:2.71828' // picasso
     implementation 'com.google.code.gson:gson:2.8.9'      // Gson
-    implementation 'jp.wasabeef:blurry:4.0.1'             // Blur & Capture
-    implementation 'org.sqldroid:sqldroid:1.0.3'          // Sqlite-jdbc
     implementation 'com.daimajia.androidanimations:library:2.4@aar' // Animation
-    implementation 'net.lingala.zip4j:zip4j:2.9.1'        // Zip File
-    implementation 'com.orhanobut:dialogplus:1.11@aar'    // Dialog & Sheet
     implementation 'com.yanzhenjie:permission:2.0.2'      // Permission
+    implementation 'com.orhanobut:dialogplus:1.11@aar'    // Dialog & Sheet
     implementation 'com.github.kittinunf.fuel:fuel:2.3.1'
     implementation 'com.github.kittinunf.fuel:fuel-coroutines:2.3.1'
 
